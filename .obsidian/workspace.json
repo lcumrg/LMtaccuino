@@ -11,10 +11,14 @@
             "id": "e33021d80f937ca1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Germogli inconsapevoli - BOZZA/Cuore.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Cuore"
             }
           }
         ]
@@ -178,33 +182,33 @@
   },
   "active": "e33021d80f937ca1",
   "lastOpenFiles": [
+    "Germogli inconsapevoli - BOZZA/Libertà.md",
+    "08_forse_un_mattino.md",
+    "03_appartenenza.md",
+    "01_cigolio_impercettibile.md",
+    "Germogli inconsapevoli - BOZZA/Salici.md",
+    "Germogli inconsapevoli - BOZZA/Cuore.md",
+    "Germogli inconsapevoli - BOZZA/E la vita.md",
+    "Germogli inconsapevoli - BOZZA/Il galoppo del sole.md",
+    "Germogli inconsapevoli - BOZZA/Il mondo è in fiamme.md",
+    "Germogli inconsapevoli - BOZZA/Lei.md",
+    "Germogli inconsapevoli - BOZZA/Un mare scuro.md",
+    "Germogli inconsapevoli - BOZZA/Piccole amnesie.md",
+    "Germogli inconsapevoli - BOZZA/Occhi.md",
+    "Germogli inconsapevoli - BOZZA/Maledetto silenzio.md",
+    "Germogli inconsapevoli - BOZZA/Con pugni chiusi.md",
+    "Germogli inconsapevoli - BOZZA/C’è tanto di quel silenzio.md",
+    "Bambini.md",
+    "06_volti_insipidi.md",
+    "Senza nome.base",
     "Prova testo git.md",
     "Fissità degli altri.md",
     "A10_un_giorno_forse.md",
-    "01_cigolio_impercettibile.md",
     "02_annusa_questo.md",
     "A07_dialogo_corpo_preghiera.md",
     "B03_i_monti.md",
     "A05_tristezza_cristiana.md",
     "12_citazione_davila.md",
-    "Cose da verificare — riepilogo completo.md",
-    "A08_illusioni.md",
-    "B01_illusioni_ms.md",
-    "A19_maremoto.md",
-    "A15_basta_com.md",
-    "A14_voglio_il_tuo_ghiaccio.md",
-    "A13 Al Gius.md",
-    "A02_umori.md",
-    "11_dolomiti.md",
-    "10_giovinezza.md",
-    "09_occhi_nel_guscio.md",
-    "07_anima_ingorda.md",
-    "06_volti_insipidi.md",
-    "04_diluvio.md",
-    "08_forse_un_mattino.md",
-    "05_ora_suona_tu.md",
-    "Ok/C’è tanto di quel silenzio.md",
-    "Ok",
-    "Senza nome.base"
+    "Germogli inconsapevoli - BOZZA"
   ]
 }
