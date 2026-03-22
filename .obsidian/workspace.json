@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "279b65ff4c728eda",
+        "id": "7c4958a1e3fcd6de",
         "type": "tabs",
         "children": [
           {
-            "id": "5923519e47ec1234",
+            "id": "e33021d80f937ca1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,6 +167,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
@@ -175,13 +176,14 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "5923519e47ec1234",
+  "active": "e33021d80f937ca1",
   "lastOpenFiles": [
+    "Prova testo git.md",
+    "Fissità degli altri.md",
     "A10_un_giorno_forse.md",
     "01_cigolio_impercettibile.md",
     "02_annusa_questo.md",
     "A07_dialogo_corpo_preghiera.md",
-    "Fissità degli altri.md",
     "B03_i_monti.md",
     "A05_tristezza_cristiana.md",
     "12_citazione_davila.md",
@@ -202,7 +204,6 @@
     "08_forse_un_mattino.md",
     "05_ora_suona_tu.md",
     "Ok/C’è tanto di quel silenzio.md",
-    "03_appartenenza.md",
     "Ok",
     "Senza nome.base"
   ]
