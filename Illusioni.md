@@ -6,8 +6,6 @@ tags:
   - vuoto/nulla
   - ironia
 ---
-# Illusioni
-
 Sorrisi mentali,
 ragnatele di polvere
 da appendere al vuoto

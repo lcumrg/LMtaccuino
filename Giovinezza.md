@@ -6,7 +6,6 @@ tags:
   - speranza
   - dedica
 ---
-# Giovinezza
 *(per il XXV anno del pontificato di G.P. II)*
 
 Ogni

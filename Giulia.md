@@ -8,8 +8,6 @@ tags:
   - invocazione
   - dedica
 ---
-# Giulia
-
 Ora il tuo nome
 ora il tuo volto
 è un silenzio che preme

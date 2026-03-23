@@ -6,8 +6,6 @@ tags:
   - interiorità
   - violenza
 ---
-# La bellezza
-
 Quella è fatta per smuovere,
 è fatta per scalzare
 per sradicare il cervello

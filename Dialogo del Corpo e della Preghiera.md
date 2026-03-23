@@ -10,8 +10,6 @@ tags:
   - meta-poesia
   - speranza
 ---
-# Dialogo del Corpo e della Preghiera
-
 *Il Corpo:*       "E non hai mai avuto nostalgia?
                   Non hai mai sentito le dita contorcersi e graffiare il petto
                   graffiare come a voler scavare

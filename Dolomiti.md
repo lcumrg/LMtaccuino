@@ -7,8 +7,6 @@ tags:
   - interiorità
   - paesaggio
 ---
-# Dolomiti
-
 Nebbia e pianure di spiagge
 tra l'inverno ed il mare
 m'assediano l'anima ed il cuore

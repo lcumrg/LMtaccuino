@@ -5,8 +5,6 @@ tags:
   - ironia
   - dedica
 ---
-# Al Gius
-
 A spasso nel vuoto
 si inciampa
 sempre in qualche

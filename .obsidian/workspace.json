@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "829368c05f13f133",
+        "id": "a74380b19c8dea49",
         "type": "tabs",
         "children": [
           {
-            "id": "b0a152851dab0032",
+            "id": "e08dd42732d8eca7",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -187,35 +187,35 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "b0a152851dab0032",
+  "active": "e08dd42732d8eca7",
   "lastOpenFiles": [
-    "A07_dialogo_corpo_preghiera 1.md",
-    "A14_voglio_il_tuo_ghiaccio 1.md",
+    "Annusa questo.md",
+    "Diluvio.md",
+    "Ora suona tu.md",
+    "Volti insipidi.md",
+    "L'anima ingorda.md",
+    "Forse un mattino.md",
+    "Occhi sul guscio.md",
+    "Giovinezza.md",
+    "Dolomiti.md",
+    "La bellezza.md",
+    "Sotto il tappo.md",
+    "Non ci sono nuvole.md",
+    "Dialogo del Corpo e della Preghiera.md",
+    "Illusioni.md",
+    "Sotto le orbite.md",
+    "Un giorno forse.md",
+    "Al Gius.md",
+    "Giulia.md",
+    "Voglio il tuo ghiaccio.md",
+    "Bambini.md",
+    "Basta com.md",
+    "Anch'io figlio.md",
+    "I monti.md",
     "Umori.md",
-    "A09_sotto_le_orbite 1.md",
     "Sogni sospesi.md",
     "Appartenenza.md",
     "DATABASE.base",
-    "Fissità degli altri.md",
-    "I poeti che cantano.md",
-    "Maremoto.md",
-    "Annusa questo.md",
-    "Aprile.md",
-    "Un cigolio impercettibile.md",
-    "08_forse_un_mattino 1.md",
-    "B03_i_monti.md",
-    "Germogli inconsapevoli - BOZZA/Occhi.md",
-    "Germogli inconsapevoli - BOZZA/Un mare scuro.md",
-    "Germogli inconsapevoli - BOZZA/E la vita.md",
-    "Germogli inconsapevoli - BOZZA/Maledetto silenzio.md",
-    "Germogli inconsapevoli - BOZZA/C’è tanto di quel silenzio.md",
-    "Germogli inconsapevoli - BOZZA/Salici.md",
-    "Germogli inconsapevoli - BOZZA/Libertà.md",
-    "Germogli inconsapevoli - BOZZA/Il mondo è in fiamme.md",
-    "Germogli inconsapevoli - BOZZA/Lei 1.md",
-    "Germogli inconsapevoli - BOZZA/Piccole amnesie.md",
-    "Germogli inconsapevoli - BOZZA/Lei.md",
-    "Germogli inconsapevoli - BOZZA/Il galoppo del sole.md",
     "Senza nome.canvas",
     "Prose & Altro",
     "Germogli inconsapevoli - BOZZA"
