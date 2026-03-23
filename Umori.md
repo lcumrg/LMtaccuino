@@ -5,8 +5,6 @@ tags:
   - identità
   - ironia
 ---
-# Umori
-
 C'è un'inquieta insazietà
 che domina l'indominabile
 mio umore.
@@ -24,6 +22,3 @@ Ma ad ogni specchio nascosto
 c'è sempre un'insana sazietà
 che striscia sull'inferocito
 mio avanzare.
-
----
-*Nota: nel manoscritto "inquieto sentimento" (v. 7) è sottolineato in rosso con segno di correzione — probabilmente da rivedere.*
