@@ -4,7 +4,8 @@ d’ansia e squarcia
 quella meschina accidia
 appisolata al volante
 
-il prodigio di tutti quei musi
+il prodigio 
+di tutti quei musi
 che sterzano
 e sfiorano
 

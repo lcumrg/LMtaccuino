@@ -14,6 +14,8 @@ A friggere nello
 Strutto
 Di questa giornata
 che regge
+
 per ora
+
 le temperature
 più estreme.
