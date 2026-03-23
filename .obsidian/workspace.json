@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "La Sirena.md",
+                "file": "Bambini.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La Sirena"
+              "title": "Bambini"
             }
           }
         ]
@@ -192,10 +192,10 @@
   },
   "active": "3c7c998376701cc5",
   "lastOpenFiles": [
+    "La Sirena.md",
     "Umori.md",
     "Non ci sono nuvole.md",
     "Dialogo del Corpo e della Preghiera.md",
-    "La Sirena.md",
     "Basta com.md",
     "Annusa questo.md",
     "Diluvio.md",
