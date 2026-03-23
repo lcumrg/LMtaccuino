@@ -1,10 +1,10 @@
-I poeti che contano
+I poeti che cantano
 sono come
 grandi abeti
-pieni di polline
+pieni di palline
 invasi di
 terra e
-sommersioni di luce,
+sommersi di luce,
 forse
 utili per sentirsi
 più buoni e

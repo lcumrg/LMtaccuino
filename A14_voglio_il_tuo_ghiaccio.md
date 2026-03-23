@@ -2,11 +2,11 @@ Voglio il tuo ghiaccio
 dentro il mio.
 
 Voglio il tuo sorriso
-giallo piantato
+gelido piantato
 in questa mia faccia di legno.
 
 Voglio i tuoi occhi
-come torli nelle vie contorte
+come tarli nelle mie cavità
 più profonde
 come vera nella mia carne
 più tenera.
