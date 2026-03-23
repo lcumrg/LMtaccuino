@@ -11,10 +11,13 @@
             "id": "b0a152851dab0032",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "bases",
+              "state": {
+                "file": "Database.base",
+                "viewName": "Tabella"
+              },
+              "icon": "lucide-table",
+              "title": "Database"
             }
           }
         ]
@@ -173,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,8 +192,10 @@
   },
   "active": "b0a152851dab0032",
   "lastOpenFiles": [
-    "Germogli inconsapevoli - BOZZA/C’è tanto di quel silenzio.md",
+    "Germogli inconsapevoli - BOZZA/Maledetto silenzio.md",
+    "Database.base",
     "Fissità degli altri.md",
+    "Germogli inconsapevoli - BOZZA/C’è tanto di quel silenzio.md",
     "Germogli inconsapevoli - BOZZA/Salici.md",
     "Germogli inconsapevoli - BOZZA/Libertà.md",
     "Germogli inconsapevoli - BOZZA/Il mondo è in fiamme.md",
@@ -198,7 +204,6 @@
     "Germogli inconsapevoli - BOZZA/Un mare scuro.md",
     "Germogli inconsapevoli - BOZZA/Piccole amnesie.md",
     "Germogli inconsapevoli - BOZZA/Occhi.md",
-    "Germogli inconsapevoli - BOZZA/Maledetto silenzio.md",
     "Germogli inconsapevoli - BOZZA/Lei.md",
     "Germogli inconsapevoli - BOZZA/E la vita 1.md",
     "Germogli inconsapevoli - BOZZA/Il galoppo del sole.md",
@@ -209,12 +214,9 @@
     "Germogli inconsapevoli - BOZZA/Con pugni chiusi.md",
     "Germogli inconsapevoli - BOZZA/Il galoppo del sole 1.md",
     "Germogli inconsapevoli - BOZZA/Un mare scuro 1.md",
-    "Germogli inconsapevoli - BOZZA/Maledetto silenzio 1.md",
     "Germogli inconsapevoli - BOZZA/Piccole amnesie 1.md",
     "04_diluvio 1.md",
     "05_ora_suona_tu.md",
-    "04_diluvio.md",
-    "Senza nome.base",
     "Senza nome.canvas",
     "Prose & Altro",
     "Germogli inconsapevoli - BOZZA"
