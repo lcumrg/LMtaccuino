@@ -1,3 +1,9 @@
+---
+tags:
+  - silenzio
+  - tempo/attesa
+  - interiorità
+---
 C’è tanto di quel silenzio
 che risuona
 

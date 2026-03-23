@@ -1,4 +1,9 @@
-
+---
+tags:
+  - cielo/natura
+  - luce/buio
+  - speranza
+---
 Minuscoli anfratti del cielo
 sfarfallando s’aggrumano
 densi

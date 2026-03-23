@@ -1,3 +1,9 @@
+---
+tags:
+  - luce/buio
+  - interiorità
+  - morte/dissoluzione
+---
 Il mondo è in fiamme 
 E l'anima sudata
 Striscia lenta

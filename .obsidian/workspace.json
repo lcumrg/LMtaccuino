@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b78ddf0037a49e83",
+        "id": "4db1e94a1e53fbee",
         "type": "tabs",
         "children": [
           {
-            "id": "2df3bf660530edf2",
+            "id": "2b1805884d66feed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Germogli inconsapevoli - BOZZA/E la vita.md",
+                "file": "Germogli inconsapevoli - BOZZA/Salici.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "E la vita"
+              "title": "Salici"
             }
           }
         ]
@@ -190,34 +190,34 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "2df3bf660530edf2",
+  "active": "2b1805884d66feed",
   "lastOpenFiles": [
-    "Germogli inconsapevoli - BOZZA/Il galoppo del sole 1.md",
-    "Germogli inconsapevoli - BOZZA/Con pugni chiusi 1.md",
-    "Germogli inconsapevoli - BOZZA/Cuore 1.md",
-    "Germogli inconsapevoli - BOZZA/Lei 1.md",
-    "Germogli inconsapevoli - BOZZA/Un mare scuro 1.md",
-    "Germogli inconsapevoli - BOZZA/E la vita 1.md",
+    "Germogli inconsapevoli - BOZZA/Libertà.md",
+    "Germogli inconsapevoli - BOZZA/Il mondo è in fiamme.md",
+    "Germogli inconsapevoli - BOZZA/C’è tanto di quel silenzio.md",
     "Germogli inconsapevoli - BOZZA/Occhi 1.md",
+    "Germogli inconsapevoli - BOZZA/Lei 1.md",
+    "Germogli inconsapevoli - BOZZA/Salici.md",
+    "Germogli inconsapevoli - BOZZA/Un mare scuro.md",
+    "Germogli inconsapevoli - BOZZA/Piccole amnesie.md",
+    "Germogli inconsapevoli - BOZZA/Occhi.md",
+    "Germogli inconsapevoli - BOZZA/Maledetto silenzio.md",
+    "Germogli inconsapevoli - BOZZA/Lei.md",
+    "Germogli inconsapevoli - BOZZA/E la vita 1.md",
+    "Germogli inconsapevoli - BOZZA/Il galoppo del sole.md",
+    "Germogli inconsapevoli - BOZZA/E la vita.md",
+    "Germogli inconsapevoli - BOZZA/Cuore 1.md",
+    "Germogli inconsapevoli - BOZZA/Cuore.md",
+    "Germogli inconsapevoli - BOZZA/Con pugni chiusi 1.md",
+    "Germogli inconsapevoli - BOZZA/Con pugni chiusi.md",
+    "Germogli inconsapevoli - BOZZA/Il galoppo del sole 1.md",
+    "Germogli inconsapevoli - BOZZA/Un mare scuro 1.md",
     "Germogli inconsapevoli - BOZZA/Maledetto silenzio 1.md",
     "Germogli inconsapevoli - BOZZA/Piccole amnesie 1.md",
-    "Germogli inconsapevoli - BOZZA/Con pugni chiusi.md",
-    "Germogli inconsapevoli - BOZZA/C’è tanto di quel silenzio.md",
     "04_diluvio 1.md",
     "05_ora_suona_tu.md",
     "04_diluvio.md",
     "01_cigolio_impercettibile 1.md",
-    "07_anima_ingorda.md",
-    "A02_umori 1.md",
-    "Bambini 1.md",
-    "07_anima_ingorda 1.md",
-    "05_ora_suona_tu 1.md",
-    "Germogli inconsapevoli - BOZZA/Il galoppo del sole.md",
-    "Germogli inconsapevoli - BOZZA/Un mare scuro.md",
-    "08_forse_un_mattino.md",
-    "03_appartenenza 1.md",
-    "03_appartenenza.md",
-    "02_annusa_questo 1.md",
     "Senza nome.base",
     "Senza nome.canvas",
     "Prose & Altro",
