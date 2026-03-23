@@ -6,8 +6,6 @@ tags:
   - vuoto/nulla
   - paesaggio
 ---
-# Aprile
-
 Il cervello soffice
 del vuoto sgocciola
 come una nuvola

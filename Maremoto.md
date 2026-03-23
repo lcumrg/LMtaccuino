@@ -5,8 +5,6 @@ tags:
   - morte/dissoluzione
   - paesaggio
 ---
-# Maremoto
-
 L'acqua non è
 acqua
 

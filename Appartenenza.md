@@ -8,8 +8,6 @@ tags:
   - identità
   - maschera
 ---
-# Appartenenza
-
 Accucciato nei volti
 mi sento un parassita
 che divora sorrisi:
