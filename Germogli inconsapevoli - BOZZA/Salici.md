@@ -1,13 +1,9 @@
 ---
 tags:
----
----
-tags:
   - n2026
   - cielo/natura
   - interiorità
 ---
-
 Come salici spettinati
 Dentro una scatola
 

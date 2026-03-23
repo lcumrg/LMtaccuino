@@ -1,3 +1,11 @@
+---
+tags:
+  - occhi/sguardo
+  - luce/buio
+  - relazione
+  - identità
+  - maschera
+---
 Fissità degli altri,
 morbida sentità
     degli altri.
