@@ -1,14 +1,15 @@
 Taglia colonne
-d’ansia  
+d’ansia e squarcia
 quella meschina accidia
 appisolata al volante
 
 il prodigio di tutti quei musi
 che sterzano
-lacerando una fessura
-dove s'intr
+e sfiorano
 
-Una speranza appesa 
+una speranza appesa 
 all’asfalto
 
-San Donà di Piave 23/3/2026
+
+
+*San Donà di Piave 23/3/2026*
