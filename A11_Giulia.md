@@ -1,10 +1,10 @@
-# Giulio
+# Giulia
 
-Ora il tuo [~~cuore~~] nome
+Ora il tuo nome
 ora il tuo volto
 è un silenzio che preme
 negli occhi:
 è un silenzio che grida
 che strazia la carne
-e rimbomba nel tutto:
+e rimbomba su tutto:
 "voglio Dio"!

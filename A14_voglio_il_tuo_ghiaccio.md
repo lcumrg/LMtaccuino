@@ -3,12 +3,12 @@ dentro il mio.
 
 Voglio il tuo sorriso
 gelido piantato
-in questa mia faccia di legno.
+su questa mia faccia di legno.
 
 Voglio i tuoi occhi
 come tarli nelle mie cavità
 più profonde
-come vera nella mia carne
+come vermi nella mia carne
 più tenera.
 
 Voglio l'azzurro del cielo

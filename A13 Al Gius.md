@@ -1,6 +1,6 @@
 # Al Gius
 
-A passo nel vuoto
+A spasso nel vuoto
 si inciampa
 sempre in qualche
 cosa che rompe
