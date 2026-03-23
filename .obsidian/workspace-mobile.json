@@ -11,10 +11,14 @@
             "id": "3c7dfbaa339df04f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "B03_i_monti.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "B03_i_monti"
             }
           }
         ]
@@ -108,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cuore.md",
+            "file": "B03_i_monti.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -158,11 +162,17 @@
       "canvas:Crea nuova lavagna": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
-      "bases:Crea nuova Base": false
+      "bases:Crea nuova Base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "3c7dfbaa339df04f",
   "lastOpenFiles": [
+    "01_cigolio_impercettibile.md",
+    "Germogli inconsapevoli - BOZZA/Maledetto silenzio.md",
+    "A07_dialogo_corpo_preghiera.md",
+    "03_appartenenza.md",
+    "07_anima_ingorda.md",
     "Lei.md",
     "Cuore.md",
     "Il galoppo del sole.md",
