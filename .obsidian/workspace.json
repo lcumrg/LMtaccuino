@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6d73b54c0c8b26d3",
+        "id": "a1b062c063ac5130",
         "type": "tabs",
         "children": [
           {
-            "id": "9c7df23f2f8e2c0a",
+            "id": "a426b100e5dd667a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -173,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +187,18 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "9c7df23f2f8e2c0a",
+  "active": "a426b100e5dd667a",
   "lastOpenFiles": [
+    "Al Gius.md",
+    "DATABASE.base",
+    "Anch'io figlio.md",
+    "La Sirena.md",
+    "Sogni sospesi.md",
+    "Volti insipidi.md",
+    "Voglio il tuo ghiaccio.md",
+    "Sotto le orbite.md",
+    "Non ci sono nuvole.md",
+    "Maremoto.md",
     "Germogli inconsapevoli - BOZZA/Un mare scuro.md",
     "Germogli inconsapevoli - BOZZA/Salici.md",
     "Germogli inconsapevoli - BOZZA/Piccole amnesie 1.md",
@@ -201,20 +212,9 @@
     "Germogli inconsapevoli - BOZZA/Cuore 1.md",
     "Germogli inconsapevoli - BOZZA/Con pugni chiusi 1.md",
     "Germogli inconsapevoli - BOZZA/C’è tanto di quel silenzio.md",
-    "Al Gius.md",
     "Appartenenza.md",
     "Annusa questo.md",
-    "Anch'io figlio.md",
-    "Maremoto.md",
     "La bellezza.md",
-    "Illusioni.md",
-    "I poeti che cantano.md",
-    "Forse un mattino.md",
-    "Fissità degli altri.md",
-    "Dolomiti.md",
-    "Diluvio.md",
-    "Dialogo del Corpo e della Preghiera.md",
-    "DATABASE.base",
     "Senza nome.canvas",
     "Prose & Altro",
     "Germogli inconsapevoli - BOZZA"

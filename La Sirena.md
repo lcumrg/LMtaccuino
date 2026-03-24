@@ -1,4 +1,11 @@
-
+---
+tags:
+  - violenza
+  - speranza
+  - paesaggio
+  - interiorità
+  - n2026
+---
 Taglia colonne
 d’ansia e squarcia
 quella meschina accidia
