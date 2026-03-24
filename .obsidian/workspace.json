@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f022d86ec94ef004",
+        "id": "b1b607456f27f9a4",
         "type": "tabs",
         "children": [
           {
-            "id": "3c7c998376701cc5",
+            "id": "e9513f8cad048bd3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "La Sirena.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "La Sirena"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -190,14 +186,14 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "3c7c998376701cc5",
+  "active": "e9513f8cad048bd3",
   "lastOpenFiles": [
+    "La Sirena.md",
     "Illusioni.md",
     "I monti.md",
     "Forse un mattino.md",
     "Diluvio.md",
     "Bambini.md",
-    "La Sirena.md",
     "Umori.md",
     "Non ci sono nuvole.md",
     "Dialogo del Corpo e della Preghiera.md",
