@@ -11,10 +11,14 @@
             "id": "3c7dfbaa339df04f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "La Sirena.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "La Sirena"
             }
           }
         ]
@@ -108,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "B03_i_monti.md",
+            "file": "La Sirena.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -164,6 +168,7 @@
   },
   "active": "3c7dfbaa339df04f",
   "lastOpenFiles": [
+    "Maremoto.md",
     "01_cigolio_impercettibile.md",
     "Germogli inconsapevoli - BOZZA/Maledetto silenzio.md",
     "A07_dialogo_corpo_preghiera.md",
