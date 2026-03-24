@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a1b062c063ac5130",
+        "id": "f022d86ec94ef004",
         "type": "tabs",
         "children": [
           {
-            "id": "a426b100e5dd667a",
+            "id": "3c7c998376701cc5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "La Sirena.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "La Sirena"
             }
           }
         ]
@@ -173,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,34 +190,35 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "a426b100e5dd667a",
+  "active": "3c7c998376701cc5",
   "lastOpenFiles": [
-    "Al Gius.md",
-    "DATABASE.base",
-    "Anch'io figlio.md",
+    "Illusioni.md",
+    "I monti.md",
+    "Forse un mattino.md",
+    "Diluvio.md",
+    "Bambini.md",
     "La Sirena.md",
-    "Sogni sospesi.md",
-    "Volti insipidi.md",
-    "Voglio il tuo ghiaccio.md",
-    "Sotto le orbite.md",
+    "Umori.md",
     "Non ci sono nuvole.md",
-    "Maremoto.md",
-    "Germogli inconsapevoli - BOZZA/Un mare scuro.md",
-    "Germogli inconsapevoli - BOZZA/Salici.md",
-    "Germogli inconsapevoli - BOZZA/Piccole amnesie 1.md",
-    "Germogli inconsapevoli - BOZZA/Occhi.md",
-    "Germogli inconsapevoli - BOZZA/Maledetto silenzio.md",
-    "Germogli inconsapevoli - BOZZA/Libertà.md",
-    "Germogli inconsapevoli - BOZZA/Lei 1.md",
-    "Germogli inconsapevoli - BOZZA/Il mondo è in fiamme.md",
-    "Germogli inconsapevoli - BOZZA/Il galoppo del sole 1.md",
-    "Germogli inconsapevoli - BOZZA/E la vita.md",
-    "Germogli inconsapevoli - BOZZA/Cuore 1.md",
-    "Germogli inconsapevoli - BOZZA/Con pugni chiusi 1.md",
-    "Germogli inconsapevoli - BOZZA/C’è tanto di quel silenzio.md",
-    "Appartenenza.md",
+    "Dialogo del Corpo e della Preghiera.md",
+    "Basta com.md",
     "Annusa questo.md",
+    "Ora suona tu.md",
+    "Volti insipidi.md",
+    "L'anima ingorda.md",
+    "Occhi sul guscio.md",
+    "Giovinezza.md",
+    "Dolomiti.md",
     "La bellezza.md",
+    "Sotto il tappo.md",
+    "Sotto le orbite.md",
+    "Un giorno forse.md",
+    "Al Gius.md",
+    "Giulia.md",
+    "Voglio il tuo ghiaccio.md",
+    "Anch'io figlio.md",
+    "Sogni sospesi.md",
+    "DATABASE.base",
     "Senza nome.canvas",
     "Prose & Altro",
     "Germogli inconsapevoli - BOZZA"
