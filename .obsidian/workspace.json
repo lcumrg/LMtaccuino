@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b1b607456f27f9a4",
+        "id": "de601d2fdd570106",
         "type": "tabs",
         "children": [
           {
-            "id": "e9513f8cad048bd3",
+            "id": "7d4f99786d8c63f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Maremoto.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Maremoto"
             }
           }
         ]
@@ -186,34 +190,34 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "e9513f8cad048bd3",
+  "active": "7d4f99786d8c63f2",
   "lastOpenFiles": [
-    "La Sirena.md",
+    "La bellezza.md",
     "Illusioni.md",
-    "I monti.md",
+    "I poeti che cantano.md",
     "Forse un mattino.md",
+    "Fissità degli altri.md",
+    "Dolomiti.md",
     "Diluvio.md",
-    "Bambini.md",
-    "Umori.md",
-    "Non ci sono nuvole.md",
     "Dialogo del Corpo e della Preghiera.md",
     "Basta com.md",
+    "Bambini.md",
+    "Appartenenza.md",
+    "La Sirena.md",
+    "I monti.md",
+    "Umori.md",
+    "Non ci sono nuvole.md",
     "Annusa questo.md",
     "Ora suona tu.md",
     "Volti insipidi.md",
     "L'anima ingorda.md",
     "Occhi sul guscio.md",
     "Giovinezza.md",
-    "Dolomiti.md",
-    "La bellezza.md",
     "Sotto il tappo.md",
     "Sotto le orbite.md",
     "Un giorno forse.md",
     "Al Gius.md",
     "Giulia.md",
-    "Voglio il tuo ghiaccio.md",
-    "Anch'io figlio.md",
-    "Sogni sospesi.md",
     "DATABASE.base",
     "Senza nome.canvas",
     "Prose & Altro",
