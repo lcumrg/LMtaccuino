@@ -11,10 +11,14 @@
             "id": "112262d45d8cc5e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Germogli inconsapevoli - BOZZA/Sotto il tappo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Sotto il tappo"
             }
           }
         ]
@@ -189,11 +193,11 @@
   },
   "active": "ada64befeefd60b5",
   "lastOpenFiles": [
+    "Germogli inconsapevoli - BOZZA/La Sirena.md",
     "Senza nome.md",
     "Al Gius.md",
     "DATABASE.base",
     "Anch'io figlio.md",
-    "La Sirena.md",
     "Sogni sospesi.md",
     "Volti insipidi.md",
     "Voglio il tuo ghiaccio.md",
