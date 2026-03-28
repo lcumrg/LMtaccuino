@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9c4060a224240460",
+        "id": "15912576c2d04b0a",
         "type": "tabs",
         "children": [
           {
-            "id": "ca731341e9958262",
+            "id": "53c4299f8a36e208",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L'anima ingorda.md",
+                "file": "Senza nome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L'anima ingorda"
+              "title": "Senza nome"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ingor",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Segnalibri"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,15 +191,15 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "ca731341e9958262",
+  "active": "53c4299f8a36e208",
   "lastOpenFiles": [
+    "Senza nome.md",
+    "L'anima ingorda.md",
     "Sotto le orbite.md",
     "Dialogo del Corpo e della Preghiera.md",
     "Aprile.md",
-    "L'anima ingorda.md",
     "Germogli inconsapevoli - BOZZA/Sotto il tappo.md",
     "Germogli inconsapevoli - BOZZA/La Sirena.md",
-    "Senza nome.md",
     "Al Gius.md",
     "DATABASE.base",
     "Anch'io figlio.md",
