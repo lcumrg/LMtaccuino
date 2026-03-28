@@ -1,4 +1,4 @@
 Stropicciato
 su questa mattina
-corto corto 
-verso di me
+
+E infastidito anche
