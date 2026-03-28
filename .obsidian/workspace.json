@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2c621cdd918c7ebc",
+        "id": "9c4060a224240460",
         "type": "tabs",
         "children": [
           {
-            "id": "a51c83263541e08a",
+            "id": "ca731341e9958262",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "L'anima ingorda.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "L'anima ingorda"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ingor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "Segnalibri"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,7 +192,7 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "a51c83263541e08a",
+  "active": "ca731341e9958262",
   "lastOpenFiles": [
     "Sotto le orbite.md",
     "Dialogo del Corpo e della Preghiera.md",
