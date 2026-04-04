@@ -11,14 +11,10 @@
             "id": "3c7dfbaa339df04f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "La Sirena.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "La Sirena"
+              "title": "Nuova scheda"
             }
           }
         ]
