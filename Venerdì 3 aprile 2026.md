@@ -1,7 +1,7 @@
+
 Questo cielo 
-ben strutturato 
-d’azzurro e d’organici 
-sprazzi d’ansia 
+ben strutturato d’azzurro 
+e sprazzi d’ansia 
 
 non è di conforto
 
