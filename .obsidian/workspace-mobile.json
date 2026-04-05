@@ -11,10 +11,14 @@
             "id": "3c7dfbaa339df04f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Cesenatico 5 aprile 2026.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Cesenatico 5 aprile 2026"
             }
           }
         ]
@@ -108,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "La Sirena.md",
+            "file": "Cesenatico 5 aprile 2026.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",

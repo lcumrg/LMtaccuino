@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7abc68eaf4cb9615",
+        "id": "5ad92c1aa1bad637",
         "type": "tabs",
         "children": [
           {
-            "id": "af14934249f8a932",
+            "id": "fbbb651f5cb60189",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Senza nome 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Senza nome 1"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -191,7 +187,7 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "af14934249f8a932",
+  "active": "fbbb651f5cb60189",
   "lastOpenFiles": [
     "Senza nome 1.md",
     "Prose & Altro/A12_una_lacrima.md",
