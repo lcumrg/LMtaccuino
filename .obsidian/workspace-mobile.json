@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cesenatico 5 aprile 2026.md",
+                "file": "Forse un mattino.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cesenatico 5 aprile 2026"
+              "title": "Forse un mattino"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cesenatico 5 aprile 2026.md",
+            "file": "Forse un mattino.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,6 +168,14 @@
   },
   "active": "3c7dfbaa339df04f",
   "lastOpenFiles": [
+    "Giovinezza.md",
+    "Giulia.md",
+    "La bellezza.md",
+    "Sogni sospesi.md",
+    "Occhi sul guscio.md",
+    "Ora suona tu.md",
+    "I poeti che cantano.md",
+    "Cesenatico 5 aprile 2026.md",
     "Maremoto.md",
     "01_cigolio_impercettibile.md",
     "Germogli inconsapevoli - BOZZA/Maledetto silenzio.md",
@@ -185,8 +193,6 @@
     "Libertà.md",
     "Il mondo è in fiamme.md",
     "E la vita.md",
-    "Piccole amnesie.md",
-    "Salici.md",
-    "C’è tanto di quel silenzio.md"
+    "Piccole amnesie.md"
   ]
 }
