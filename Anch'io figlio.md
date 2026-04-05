@@ -9,7 +9,7 @@ tags:
 Anch'io figlio
 di questo tuo figlio.
 
-No, altra parola, ti prego...
+Un'altra parola, ti prego...
 
 Dove andrò, padre?
 Tu solo hai parole

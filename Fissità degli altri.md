@@ -7,8 +7,8 @@ tags:
   - maschera
 ---
 Fissità degli altri,
-morbida sentità
-    degli altri.
+morbida santità
+	degli altri.
 
 Lucida tenebra
 che mi sgoccioli
