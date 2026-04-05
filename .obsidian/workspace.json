@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "Venerdì 3 aprile 2026"
             }
+          },
+          {
+            "id": "3be1399cfea66310",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,7 +216,7 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "e3cf00b07a77e982",
+  "active": "3be1399cfea66310",
   "lastOpenFiles": [
     "Venerdì 3 aprile 2026.md",
     "Senza nome.md",
