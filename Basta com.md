@@ -27,7 +27,7 @@ gorgogliare singhiozzi
 d'amore
 e il mare
 che s'acquatta
-nell'acqua
+nell'acqua e
 mi fissa come un
 gatto
 in fiamme 
