@@ -1,6 +1,7 @@
 ---
 tags:
   - violenza
+  - amore
 ---
 Forse un mattino
 incrinando il volto con il martello
