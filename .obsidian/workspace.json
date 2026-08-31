@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "617c5ca7e7ba7de1",
+        "id": "445c21744d9aab6b",
         "type": "tabs",
         "children": [
           {
-            "id": "25bce5f543c25bee",
+            "id": "01644b72ce25136c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -188,7 +188,7 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "25bce5f543c25bee",
+  "active": "01644b72ce25136c",
   "lastOpenFiles": [
     "Senza nome.md",
     "Questo cielo.md",
