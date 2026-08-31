@@ -11,10 +11,14 @@
             "id": "01644b72ce25136c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Ora suona tu.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Ora suona tu"
             }
           }
         ]
@@ -70,8 +74,7 @@
               "title": "Segnalibri"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,9 +193,14 @@
   },
   "active": "01644b72ce25136c",
   "lastOpenFiles": [
-    "Senza nome.md",
-    "Questo cielo.md",
+    "Germogli inconsapevoli - BOZZA/Lei 1.md",
+    "Germogli inconsapevoli - BOZZA/Sotto il tappo.md",
+    "Dialogo del Corpo e della Preghiera.md",
     "Fissità degli altri.md",
+    "Cesenatico 5 aprile 2026.md",
+    "Questo cielo.md",
+    "Senza nome.md",
+    "Germogli inconsapevoli - BOZZA/La Sirena.md",
     "Forse un mattino.md",
     "Volti insipidi.md",
     "Al Gius.md",
@@ -211,11 +219,6 @@
     "I poeti che cantano.md",
     "Non ci sono nuvole.md",
     "Maremoto.md",
-    "L'anima ingorda.md",
-    "Basta com.md",
-    "Cesenatico 5 aprile 2026.md",
-    "Senza nome 1.md",
-    "Prose & Altro/A12_una_lacrima.md",
     "DATABASE.base",
     "Senza nome.canvas",
     "Prose & Altro",
