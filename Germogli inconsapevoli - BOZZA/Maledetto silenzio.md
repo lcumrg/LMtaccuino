@@ -12,12 +12,11 @@ lo stomaco e il cuore
 e la bocca e questa
 lingua mozzata
 che mi dondola dentro
-fin dentro la gola
 e mi soffoca
 
 le parole
 piccole
-parole
+parole.
 
 Maledette parole
 

@@ -23,4 +23,3 @@ sul nero terreno
 per una goccia
 del tuo
 sorriso.
-

@@ -4,13 +4,13 @@ tags:
   - interiorità
   - morte/dissoluzione
 ---
-Il mondo è in fiamme 
-E l'anima sudata
-Striscia lenta
+Il mondo è in fiamme
+e l’anima sudata
+striscia lenta.
 
 E batte
-E ribatte sul fondo 
-di questa linea  
+e ribatte sul fondo
+di questa linea
 stropicciata sotto le scarpe.
 
 Sulle foglie morte
@@ -19,4 +19,4 @@ un mormorio
 che arde
 
 ancora
-arde
+arde.

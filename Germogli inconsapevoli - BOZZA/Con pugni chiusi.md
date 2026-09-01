@@ -10,13 +10,13 @@ e labbra sottili
 affondi la mente
 in quella palude
 limpida
-di occhi socchiusi
+di occhi socchiusi.
 
-C’è un urlo che vibra
-dal fondo 
+C’è un urlo
+che vibra dal fondo
 SILENZIO
 che morde le labbra
 SILENZIO
-che strozza 
-
 che strozza
+
+che strozza.

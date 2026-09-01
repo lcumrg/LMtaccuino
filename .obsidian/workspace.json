@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "33ec209180978520",
+        "id": "043a5aa1785ea32a",
         "type": "tabs",
         "children": [
           {
-            "id": "bda261897b9943b7",
+            "id": "4faaec6096604d61",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Senza nome.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Senza nome"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -180,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +187,18 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "bda261897b9943b7",
+  "active": "4faaec6096604d61",
   "lastOpenFiles": [
+    "Sotto il tappo.md",
+    "Lei 1.md",
+    "Germogli inconsapevoli - BOZZA/La sirena.md",
+    "Germogli inconsapevoli - BOZZA/Aprile.md",
+    "Germogli inconsapevoli - BOZZA/Con pugni chiusi.md",
+    "Germogli inconsapevoli - BOZZA/Cuore.md",
+    "Germogli inconsapevoli - BOZZA/Dialogo del Corpo e della Preghiera.md",
+    "Germogli inconsapevoli - BOZZA/Il galoppo del sole.md",
+    "Germogli inconsapevoli - BOZZA/L'anima ingorda.md",
+    "Germogli inconsapevoli - BOZZA/Piccole amnesie.md",
     "Senza nome.canvas",
     "Sotto le orbite.md",
     "Umori.md",
@@ -212,15 +216,6 @@
     "Cesenatico 5 aprile 2026.md",
     "Basta com.md",
     "Forse un mattino.md",
-    "Questo cielo.md",
-    "Senza nome.md",
-    "Ora suona tu.md",
-    "Germogli inconsapevoli - BOZZA/Lei 1.md",
-    "Germogli inconsapevoli - BOZZA/Sotto il tappo.md",
-    "Germogli inconsapevoli - BOZZA/La Sirena.md",
-    "Volti insipidi.md",
-    "Aprile.md",
-    "Annusa questo.md",
     "DATABASE.base",
     "Prose & Altro",
     "Germogli inconsapevoli - BOZZA"

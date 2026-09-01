@@ -7,23 +7,20 @@ tags:
   - interiorità
 ---
 Occhi
-Schivi
-Che riflettono
-Il sogno
-Riflettono
-Il sole 
+schivi
+che riflettono
+il sogno
+riflettono
+il sole
 che dentro
-Non dorme
-Ne urla
+non dorme
+né urla.
 
-Muto 
-Questo gracile
-ronzio 
+Muto
+questo gracile
+ronzio
 pesa
-E graffia
-E pulsa
-E rompe
-
-Ancora.
-
-PV 17/11/2016
+e graffia
+e pulsa
+e rompe
+ancora.

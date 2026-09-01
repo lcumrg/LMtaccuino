@@ -5,21 +5,17 @@ tags:
   - interiorità
 ---
 Come salici spettinati
-Dentro una scatola
+dentro una scatola
 
-Tutte le frecce
-impazzite 
+tutte le frecce
+impazzite
 stanno lì
 da millenni
 immote e tranquille
 ma con dentro
-un’ansia 
+un’ansia
 feroce.
 
 Stanno lì
 come un prurito
-instancabile
-
-
-
-
+instancabile.
